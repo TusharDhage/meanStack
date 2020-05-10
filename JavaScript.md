@@ -1,4 +1,4 @@
-# JS              <img src="JS/js logo.png" width=400 height=200>
+# JS              <img src="JS/js logo.png" width=200 height=150>
 ```
 JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications.
 It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML.
