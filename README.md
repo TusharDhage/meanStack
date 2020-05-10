@@ -1,10 +1,10 @@
-# MeanStack   <img src="MeanStack/2.1.jpg" width=400 height=200>
+# MeanStack                    <img src="MeanStack/2.1.jpg" width=400 height=200>
 
 MEAN is a free and open-source JavaScript software stack for building dynamic web sites and web applications. Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments
 ___
 ## What is MEAN?
 
-A relatively new stack, MEAN stands for MongoDB, Express.js, AngularJS, and Node.js. MEAN is an end-to-end JavaScript stack largely used for cloud-ready applications. Understanding why you might use it, identifying examples of when to employ it, and diving deeper into the individual components can help you maximize the value of MEAN for software development.
+A relatively new stack, MEAN stands for `MongoDB, Express.js, AngularJS, and Node.js`. MEAN is an end-to-end JavaScript stack largely used for cloud-ready applications. Understanding why you might use it, identifying examples of when to employ it, and diving deeper into the individual components can help you maximize the value of MEAN for software development.
 
 > Here are a few examples for using MEAN:
 
