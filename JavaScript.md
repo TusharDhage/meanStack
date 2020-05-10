@@ -1,10 +1,8 @@
-# JavaScript                             <img src="All in one/js logo.png">
+# JavaScript          <img src="JS/js logo.png">
 ```
-JavaScript is a lightweight, interpreted programming language. 
-It is designed for creating network-centric applications.
- It is complimentary to and integrated with Java. JavaScript is very easy
- to implement because it is integrated with HTML.
- It is open and cross-platform.
+JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications.
+It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML.
+It is open and cross-platform.
 ```
 
 > JavaScript Example
@@ -71,14 +69,7 @@ ___
   - Displaying clocks etc.
 
 ___
-##History of JavaScript
+## History of JavaScript
 
-In 1993, Mosaic, the first popular web browser, came into existence. In the year 1994, Netscape was founded by Marc Andreessen. He realized that the web needed 
-to become more dynamic. Thus, a 'glue language' was believed to be provided to HTML to make web designing easy for designers and part-time programmers.
- Consequently, in 1995, the company recruited Brendan Eich intending to implement and embed Scheme programming language to the browser. But, before Brendan 
-could start, the company merged with Sun Microsystems for adding Java into its Navigator so that it could compete with Microsoft over the web technologies and
- platforms. Now, two languages were there: Java and the scripting language. Further, Netscape decided to give a similar name to the scripting language as Java's.
- It led to 'Javascript'. Finally, in May 1995, Marc Andreessen coined the first code of Javascript named 'Mocha'. Later, the marketing team replaced the name with 
-'LiveScript'. But, due to trademark reasons and certain other reasons, in December 1995, the language was finally renamed to 'JavaScript'. From then, JavaScript came
- into existence.
+In 1993, Mosaic, the first popular web browser, came into existence. In the year 1994, Netscape was founded by Marc Andreessen. He realized that the web needed to become more dynamic. Thus, a 'glue language' was believed to be provided to HTML to make web designing easy for designers and part-time programmers. Consequently, in 1995, the company recruited Brendan Eich intending to implement and embed Scheme programming language to the browser. But, before Brendan could start, the company merged with Sun Microsystems for adding Java into its Navigator so that it could compete with Microsoft over the web technologies andplatforms. Now, two languages were there: Java and the scripting language. Further, Netscape decided to give a similar name to the scripting language as Java's. It led to 'Javascript'. Finally, in May 1995, Marc Andreessen coined the first code of Javascript named 'Mocha'. Later, the marketing team replaced the name with 'LiveScript'. But, due to trademark reasons and certain other reasons, in December 1995, the language was finally renamed to 'JavaScript'. From then, JavaScript cameinto existence.
 
