@@ -18,7 +18,7 @@ MEAN is an open source web stack that is mainly used to create cloud-hosted appl
 
 JavaScript has long been a popular language for front-end web development—it’s flexible, dynamic, and easy to use. But it has been an option only for backend and database development for a few years, allowing developers to create applications using end-to-end JavaScript. Because every part of MEAN uses the same language, you can streamline your development teams. MEAN removes the need to hire different specialists to develop each part of an application. Instead, you can use a single pool of JavaScript developers to work adaptively, where and when needed. Standardizing on JavaScript also provides an opportunity to reuse code across the entire application, reducing unnecessary reinvention. 
 
-<img src="MeanStack/1.png">
+<img src="MeanStack/1.webp">
 
 # Components
 ___
