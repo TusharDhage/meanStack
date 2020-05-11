@@ -8,36 +8,43 @@ ___
 
 The `+` operator adds two numbers.
 
-EXAMPLE
+EXAMPLE:-
 1 + 2;
-OUTPUT
+
+OUTPUT:-
 3
 
 The `-` operator subtracts one number from another.
 
-EXAMPLE
+EXAMPLE:-
 50 - 15;
-OUTPUT
+
+OUTPUT:-
 35
 
 The `*` operator multiplies two numbers. Notice it’s an asterisk and not the × symbol commonly used in math.
 
-EXAMPLE
+EXAMPLE:-
 3 * 12;
-OUTPUT
+
+OUTPUT:-
 36
+
 The `/` operator divides one number by another. Notice it’s a forward slash and not the ÷ symbol commonly used in math.
 
-EXAMPLE
+EXAMPLE:-
 12 / 4;
-OUTPUT
+
+OUTPUT:-
 3
 
 JavaScript expressions follow an order of operations, so even though + is written first in the following example, 
 the multiplication happens first between the last two numbers and *.
-EXAMPLE
+
+EXAMPLE:-
 1 + 100 * 5;
-OUTPUT
+
+OUTPUT:-
 501
 
 ___
@@ -47,9 +54,10 @@ ___
 solves each operation moving from left to right.
 Adding the grouping operator to the previous example causes 1 + 100 to evaluate first.
 
-EXAMPLE
+EXAMPLE:-
 (1 + 100) * 5;
-OUTPUT
+
+OUTPUT:-
 505
 
 ___
@@ -57,9 +65,10 @@ ___
 
 The `+` operator can also concatenate strings, which is another way of saying it can add them together.
 
-EXAMPLE
+EXAMPLE:-
 "news" + "paper";
-OUTPUT
+
+OUTPUT:-
 "newspaper"
 
 ___
