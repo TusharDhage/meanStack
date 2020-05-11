@@ -22,6 +22,7 @@ ___
 *EXAMPLE*
 
 var x = 100;
+
 x + 102;
 
 *OUTPUT*:-`202`
@@ -31,7 +32,9 @@ x + 102;
 *EXAMPLE*
 
 var x = 100;
+
 var y = x + 102;
+
 y;
 
 *OUTPUT*:-`202`
@@ -43,7 +46,9 @@ ___
 *EXAMPLE*
 
 var weather = "rainy";
+
 ​weather = "sunny";
+
 weather;
 
 *OUTPUT*:-`"sunny"`
@@ -60,20 +65,20 @@ Variable names are pretty flexible as long as you follow a few rules:
 
 *EXAMPLE*
 
-var camelCase = "lowercase word, then uppercase";
-var dinner2Go = "pizza";
-var I_AM_HUNGRY = true;
-var _Hello_ = "what a nice greeting"
-var $_$ = "money eyes";
+- var camelCase = "lowercase word, then uppercase";
+- var dinner2Go = "pizza";
+- var I_AM_HUNGRY = true;
+- var _Hello_ = "what a nice greeting"
+- var $_$ = "money eyes";
 
 > here are some invalid variable names — try to spot what’s wrong with each of them:
 
 *EXAMPLE*
 
-var total% = 78;
-var 2fast2catch = "bold claim";
-var function = false;
-var class = "easy";
+- var total% = 78;
+- var 2fast2catch = "bold claim";
+- var function = false;
+- var class = "easy";
 
 Variable names are case-sensitive, so myVar, MyVar, and myvar are all different variables. But generally,
 it’s a good practice to avoid naming variables so similarly.
