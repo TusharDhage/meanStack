@@ -29,7 +29,7 @@ Note that a function doesn’t have to have parameters.
 function greetThePlanet() {
        return "Hello world!";
 }
-​```
+```
 greetThePlanet();
 
 *OUTPUT*:-`"Hello world!"`
@@ -41,7 +41,7 @@ If a function _does_ have parameters, you’ll need to provide values inside the
 function square(number) {
        return number * number;
 }
-​```
+```
 square(16);
 
 *OUTPUT*:-`256`
