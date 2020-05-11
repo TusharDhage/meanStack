@@ -43,6 +43,8 @@ ___
 - document.write("5+4 =" +5+4);//5+4=54
 
 - document.write("5+4 =" +(5+4));//5+4=9
+
+</script>
 ___
 <script>
 
@@ -51,6 +53,7 @@ ___
 <script> 
 
 - document.getElementById("result").innerHTML = 8+2;//10 without quatation mark
+
 - document.getElementById("result").innerHTML = "8+2 =" +(8+2);//8+2=10
 
 </script>
@@ -76,7 +79,8 @@ ___
 
   - document.write(val1+val2); // 61
 
-  - document.write(val1+"+"+val2+" = "+(val1+val2)); //this is dynamic type whatever u change value output will change
+  - document.write(val1+"+"+val2+" = "+(val1+val2)); //this is dynamic type whatever u change
+    value output will change
 
 </script>
 
@@ -93,14 +97,16 @@ ___
 ___
 # function
 
-group all code and put name to that code so when u click this name this code will run for this put code in curly bracker{}
+group all code and put name to that code so when u click this name this code will run
+for this put code in curly bracker{}
 
 ``` 
 <button onClick="tad()">Click Me</button> // when we click button below code will run
 
 <script>
 
-// this is function syntax for putting in one double quatation we have to remove other double quoation use n single quation 
+// this is function syntax for putting in one double quatation we have to remove 
+   other double quoation use n single quation 
 
 function tad()
 {
