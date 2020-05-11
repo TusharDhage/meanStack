@@ -1,4 +1,3 @@
-,intro,where to,op,statement,syntax,comment,data type,
 # JS Data types
 
 > A value in JavaScript is always of a certain type. For example, a string or a number.
@@ -7,13 +6,11 @@ There are eight basic data types in JavaScript.
 ___
 ## Number
 let n = 123;
+
 n = 12.345;
 The number type represents both integer and floating point numbers.
-
 There are many operations for numbers, e.g. multiplication *, division /, addition +, subtraction -, and so on.
-
 Besides regular numbers, there are so-called “special numeric values” which also belong to this data type: Infinity, -Infinity and NaN.
-
 Infinity represents the mathematical Infinity ∞. It is a special value that’s greater than any number.
 
 We can get it as a result of division by zero:
@@ -31,7 +28,7 @@ alert( "not a number" / 2 + 5 ); //`NaN`
 So, if there’s a NaN somewhere in a mathematical expression, it propagates to the whole result.
 
 ___
-##BigInt
+## BigInt
 - In JavaScript, the “number” type cannot represent integer values larger than (253-1) (that’s 9007199254740991), or less than -(-253-1) 
   for negatives. It’s a technical limitation caused by their internal representation.
 
@@ -49,14 +46,16 @@ ___
 ## String
 A string in JavaScript must be surrounded by quotes.
 
-let str = "Hello";
-let str2 = 'Single quotes are ok too';
-let phrase = `can embed another ${str}`;
+- let str = "Hello";
+- let str2 = 'Single quotes are ok too';
+- let phrase = `can embed another ${str}`;
+
 In JavaScript, there are 3 types of quotes.
 
-Double quotes: "Hello".
-Single quotes: 'Hello'.
-Backticks: `Hello`.
+- Double quotes: "Hello".
+- Single quotes: 'Hello'.
+- Backticks: `Hello`.
+
 Double and single quotes are “simple” quotes. There’s practically no difference between them in JavaScript.
 
 Backticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in ${…}, for example:
