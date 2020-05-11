@@ -99,7 +99,8 @@ var val1 = 56;
 
 var val2 = 5;
 
-document.write(val1+'+'+val2+' = '+(val1+val2)); 
+document.write(val1+'+'+val2+' = '+(val1+val2)); //this is dynamic type in which value
+                                                   result will change when we change input
 
 }
 
