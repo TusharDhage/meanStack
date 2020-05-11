@@ -32,8 +32,6 @@ we can write output by so many ways in js.
 ___
 # inner thing in js
 
-<script>
-
 - document.write("5+4");//5+4
 
 - document.write(5+4);//9
@@ -44,24 +42,14 @@ ___
 
 - document.write("5+4 =" +(5+4));//5+4=9
 
-</script>
-___
-<script>
-
-<h1 id="result"></h1>
-
-<script> 
-
 - document.getElementById("result").innerHTML = 8+2;//10 without quatation mark
 
 - document.getElementById("result").innerHTML = "8+2 =" +(8+2);//8+2=10
 
-</script>
 
 ___
 # variable
 
-<script>
 
 - var name="Tushar Dhage"; // for storing string we have to use quatation mark.
 
@@ -82,17 +70,13 @@ ___
   - document.write(val1+"+"+val2+" = "+(val1+val2)); //this is dynamic type whatever u change
     value output will change
 
-</script>
-
 
 ___
 # comment
 
-<!--hello bro this is comment in html-->
+- // this is comment in js for only single line
 
-// this is comment in js for only single line
-
-/*this is comment for whole paragraph in js */
+- /*this is comment for whole paragraph in js */
 
 ___
 # function
