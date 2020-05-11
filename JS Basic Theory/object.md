@@ -2,10 +2,15 @@
   - Objects are values that can contain other values. They use keys to name values, which are a lot like variables.
  
 *EXAMPLE*:
+
        var course = {
+       
             name: "GRA 2032",
+            
             start: 8,
+            
             end: 10
+            
                     };
 ___
 ## Getting keys
@@ -17,11 +22,15 @@ To get an object’s key, you have two options:
 *EXAMPLE*
 
 var course = {
+
        name: "GRA 2032",
+       
        start: 8,
+       
        end: 10
+       
 };
-​
+
 `course.name`;
 
 *OUTPUT*:- "GRA 2032"
@@ -31,11 +40,14 @@ var course = {
 *EXAMPLE*
 
 var course = {
+
        name: "GRA 2032",
+       
        start: 8,
+       
        end: 10
 };
-​
+
 `course["name"]`;
 
 *OUTPUT*:- "GRA 2032"
@@ -49,17 +61,21 @@ ___
 *EXAMPLE*:-
 
 var character = {
+
        name: "Donna",
+       
        hair: "red"
+       
 };
-​
+
 `character.hair = "blonde"`;
-​
+
 character;
 
 *OUTPUT*:-
 {
        "name": "Donna",
+       
        "hair": "blonde"
 }
 
@@ -68,17 +84,23 @@ character;
 *EXAMPLE*
 
 var character = {
+
        name: "Donna",
+       
        hair: "red"
+       
 };
 `character["hair"] = "blonde"`;
 
-​character;
+character;
 
 *OUTPUT*:-
 {
+
        "name": "Donna",
+       
        "hair": "blonde"
+       
 }
 
 
