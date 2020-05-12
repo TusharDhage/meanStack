@@ -1,7 +1,6 @@
 # LAB TEST - 2
 
-> ## Create an array having 10 numbers , write a function whose  job is to return 
-   max number from the array
+> ## Create an array having 10 numbers , write a function whose  job is to return max number from the array
 ```
 <!DOCTYPE html> 
 <html> 
@@ -204,7 +203,7 @@ function check()
  </html>
  ```
 ___
-> ## Declare a string having a 10 digit mobile number. Wwrite a function whose job is
+> ## Declare a string having a 10 digit mobile number. Write a function whose job is
     to check if it has 10 digits or not
 
 ```
