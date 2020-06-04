@@ -43,8 +43,7 @@
     </body>
 </html>
 ```
-##   Write your name in p tag with background colour blue and text in white colour,on button click it should reverse the colour ie.
-     Text colour blue and background colour white
+##   Write your name in p tag with background colour blue and text in white colour,on button click it should reverse the colour ie Text      colour blue and background colour white
 ```
 <!DOCTYPE html>
 <html>
@@ -71,10 +70,7 @@
     </body>
 </html>
 ```
-## Create three radio buttons which show names of colour.
-   Create a text box.
-   Let user enter name in text box and select radio button,
-   on clicking the text in a text box should get respective colour.
+## Create three radio buttons which show names of colour. Create a text bo Let user enter name in text box and select radio button,on      clicking the text in a text box should get respective colour.
 ```
 <!DOCTYPE html>
 <html>
@@ -107,8 +103,7 @@
     </body>
 </html>
 ```
-##  Create a dropdown box showing the number 1 to 10. 
-    Write your name in p tag let user select option from dropdown and that font size should be applied to the data in p tag
+##  Create a dropdown box showing the number 1 to 10.Write your name in p tag let user select option from dropdown and that font size       should be applied to the data in p tag
 ```
 <!DOCTYPE html>
 <html>
@@ -146,8 +141,7 @@
     </body>
 </html>
 ```
-## Create three text boxes and two radio buttons showing value “add” and “subtract”.
-   Let user enter number in two text boxes and as per the selected radio button it should display result in the 3rd text box.
+## Create three text boxes and two radio buttons showing value “add” and “subtract”.Let user enter number in two text boxes and as per      the selected radio button it should display result in the 3rd text box.
 ```
 <!DOCTYPE html>
 <html>
@@ -196,9 +190,7 @@
     </body>
 </html>
 ```
-##  Write at least 3 paragraph about yourself.
-    Create a button on click it should count number of p tags used in document. 
-    Also give blue background colour to all p tags.
+##  Write at least 3 paragraph about yourself.Create a button on click it should count number of p tags used in document.Also give blue     background colour to all p tags.
 ```
 <!DOCTYPE html>
 <html>
@@ -257,9 +249,7 @@
     </body>
 </html>
 ```
-## Create a textbox ,and a span tag,  
-   on change event on text box it should display data entered
-   in text box in span tag which is next to it text box.
+## Create a textbox ,and a span tag,on change event on text box it should display data entered in text box in span tag which is next to    it text box.
 ```
 <!DOCTYPE html>
 <html>
@@ -307,11 +297,14 @@
 </html>
 ```
 ## Create text box and a span tag  ask user to enter password . Rule for password is
+
 o It must have at least one capital character
+
 o It must have at least one digit
+
 o It must have at least 1 special symbol
-On change event it should display appropriate error message
-For example if user enters “Vita” error should be "please use one digit  use one symbol."
+
+## On change event it should display appropriate error message For example if user enters “Vita” error should be "please use one digit      use one symbol."
 
 ```
 <!DOCTYPE html>
@@ -385,10 +378,7 @@ For example if user enters “Vita” error should be "please use one digit  use
 ```
 
 
-## Create three check boxes showing book name and price. 
-   Create a text box. 
-   As per selection of check box , 
-   text box should show total of selected price.
+## Create three check boxes showing book name and price.Create a text box.As per selection of check box ,text box should show total of      selected price.
 
 ```
 <!DOCTYPE html>
